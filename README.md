@@ -24,4 +24,4 @@ Programa desenvolvimento da linguagem de programação Java.
 
 [Erlon Zefanias](https://github.com/ErlonZefaniasMuhate) - [Glen Jonas]() - [Leuso Nguenha](https://github.com/leusonguenha)
 
-### Consulte o diagrama uml do sistema
+### [Consulte o diagrama uml do sistema](https://github.com/ErlonZefaniasMuhate/SistemaGestaoEstudantes/blob/main/Diagrams/Diagrama1.0.drawio)
